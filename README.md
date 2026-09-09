@@ -20,11 +20,11 @@ Git · MySQL · H2 · REST APIs
 
 ### Proyectos
 
-**[EduToken](https://github.com/val1-boop/Proyecto-Hakatoon)** — Plataforma de aprendizaje gamificada
+**[EduToken](https://github.com/val1-boop/EduToken)** — Plataforma de aprendizaje gamificada
 Cursos con módulos, quizzes autocorregidos y un sistema de tokens y logros que recompensa el avance del estudiante. Frontend en JavaScript puro, sin frameworks: el renderizado de quizzes, la navegación y la persistencia del estado están construidos a mano.
 `JavaScript` `Flask` `localStorage`
 
-**[Red Social Móvil](https://github.com/val1-boop/Integradora_App)** — App Android con backend propio
+**[Red Social Móvil](https://github.com/val1-boop/Red-Social-Movil)** — App Android con backend propio
 Publicaciones con fotos tomadas desde la cámara del dispositivo. Arquitectura MVVM con capas separadas de datos, repositorio y presentación, contra una API REST propia con autenticación JWT y contraseñas cifradas con bcrypt.
 `Kotlin` `Jetpack Compose` `FastAPI` `JWT`
 
